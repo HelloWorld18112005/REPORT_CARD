@@ -1,8 +1,8 @@
 #include<stdio.h>
-int star(int st)
+int star(int s)
 {
     int i;
-    for(i=0;i<st;i++)
+    for(i=0;i<s;i++)
     {
         printf("*");
     }
